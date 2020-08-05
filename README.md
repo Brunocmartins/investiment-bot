@@ -1,6 +1,7 @@
 # Bovespa Investiment Bot
 
 ## TODOs
-- Web Scrapping
+- Web Scrapper
+	- Get data from individual stocks
 - Data Cleaning
-- How to make a bot
+- Find out how to make the bot
